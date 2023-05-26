@@ -1,2 +1,3 @@
 # KAUST-Academy
-KAUST AI Academy March 5-9
+Intro to AI: March 5-9
+Advanced AI: May 26-29
