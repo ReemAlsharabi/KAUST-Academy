@@ -1,7 +1,9 @@
 # KAUST-Academy
-Intro to AI: March 5-9
+* Intro to AI: March 5-9
+https://reemalsharabi.github.io/blog/KAUST_Acad_intro.html
 
-Advanced AI: May 26-29
+* Advanced AI: May 26-29
+https://reemalsharabi.github.io/blog/KAUST_Acad_adv.html
 
 ## summer program resources
 
