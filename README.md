@@ -10,3 +10,9 @@ https://reemalsharabi.github.io/blog/KAUST_Acad_adv.html
 ### Week 1
 - https://github.com/DIG-Kaust/GenModelling/tree/main
 - https://github.com/KAUST-Academy/introduction-to-deep-learning
+
+### Week 2
+- https://github.com/MohammedAljahdali/RL_week_kaust_academy
+
+### Week 3
+- https://github.com/khusrave/GNN-Week/blob/main/labs/0_Graphs_NetworkX.ipynb
