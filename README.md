@@ -14,5 +14,5 @@ https://reemalsharabi.github.io/blog/KAUST_Acad_adv.html
 ### Week 2
 - https://github.com/MohammedAljahdali/RL_week_kaust_academy
 
-### Week 3
+### Week 3 & 4
 - https://github.com/khusrave/GNN-Week/tree/main
