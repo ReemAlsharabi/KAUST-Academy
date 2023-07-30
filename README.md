@@ -16,3 +16,6 @@ https://reemalsharabi.github.io/blog/KAUST_Acad_adv.html
 
 ### Weeks 3 & 4
 - https://github.com/khusrave/GNN-Week/tree/main
+
+### Week 5
+- https://github.com/khusrave/Computer-Vision/tree/main
