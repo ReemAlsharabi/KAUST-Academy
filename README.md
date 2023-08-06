@@ -19,3 +19,6 @@ https://reemalsharabi.github.io/blog/KAUST_Acad_adv.html
 
 ### Week 5
 - https://github.com/khusrave/Computer-Vision/tree/main
+
+### Week 6
+- https://github.com/khusrave/NLP
